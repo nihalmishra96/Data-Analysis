@@ -1,4 +1,4 @@
-# Data-Analysis
+# Exploratory Data-Analysis
 
 
 Performed Exploratory Data Analysis on the Tree dataset, visualized the data, cleaned the data
